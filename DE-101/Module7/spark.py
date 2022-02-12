@@ -1,7 +1,4 @@
 from pyspark.sql import SparkSession, DataFrame
-from pyspark.sql.types import StructType, StringType
-
-
 import pyspark.sql.functions as F
 
 
