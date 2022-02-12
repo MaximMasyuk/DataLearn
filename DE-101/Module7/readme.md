@@ -23,5 +23,5 @@
 ![Image alt](https://github.com/MaximMasyuk/DataLearn/blob/main/DE-101/Module7/3%20exercise.PNG)
 
 
-Код программы:[here](myLib/README.md)https://github.com/MaximMasyuk/DataLearn/blob/main/DE-101/Module7/spark.py
+Код программы:[a link](myLib/README.md)https://github.com/MaximMasyuk/DataLearn/blob/main/DE-101/Module7/spark.py
 
