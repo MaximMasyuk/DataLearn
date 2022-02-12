@@ -5,7 +5,7 @@
 Топ-5 аэропортов США по количеству задержанных прибытий рейсов в них 
 
 Результат:
-![Image alt](https://github.com/MaximMasyuk/DataLearn/blob/main/DE-101/Module7/1%20exercise.PNG)
+![Image alt](https://github.com/MaximMasyuk/DataLearn/blob/main/DE-101/Module7/2%20exercise.PNG)
 
 
 ## 2 Задание 
@@ -13,7 +13,7 @@
 Топ-3 авиакомпании по числу отмененных рейсов (в порядке убывания)
 
 Результат:
-![Image alt](https://github.com/MaximMasyuk/DataLearn/blob/main/DE-101/Module7/2%20exercise.PNG)
+![Image alt](https://github.com/MaximMasyuk/DataLearn/blob/main/DE-101/Module7/1%20exercise.PNG)
 
 ## 3 Задание 
 
