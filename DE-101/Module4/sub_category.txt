@@ -1,0 +1,10 @@
+1. Data Exctracting - data profilling system: Button Preview rows
+2. Data Exctracting - extracting system: table input, CSV file input(ALL Input)
+3. Data Cleaning and Quality Screen Handler System: Replace in string
+4. Cleaning and Conforming Data - error event handler: Logging
+5. Cleaning and Conforming Data - deduplication system: Unique rows
+6. Surrogate Key Creation System: Add sequence
+7. Delivering Data for Presentation - surrogate key pipeline: Dimension lookup/update
+8. Delivering Data for Presentation - aggregation system: Group by
+9. Managing the ETL Envirement - Job Scheduler: Start
+10. Managing the ETL Envirement - worflow monitor: Jobs
